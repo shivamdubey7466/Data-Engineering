@@ -30,6 +30,9 @@ Untitled.ipynb
 *.log
 *.sql
 *.sqlite
+*.xml
+*.json
+*.csv
 
 # OS generated files #
 ######################
