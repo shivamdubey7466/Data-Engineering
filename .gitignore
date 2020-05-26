@@ -33,6 +33,7 @@ Untitled.ipynb
 *.xml
 *.json
 *.csv
+*.db
 
 # OS generated files #
 ######################
